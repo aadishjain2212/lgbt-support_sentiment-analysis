@@ -16,3 +16,5 @@ All the necessary modules required for are mentioned in 'requirements.txt' file
 7. Gathered tweets using tweepy module.
 8. Getting sentiment of gathered tweets using already trained linear svc model.
 9. Plotting comparitive graphs for sentiment of India and world .
+### Disclaimer:
+Since random shuffeling is used on reviews.txt therefore on each run the model will train differently and reslts may vary on each run.
